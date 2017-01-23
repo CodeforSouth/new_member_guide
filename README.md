@@ -10,21 +10,29 @@ You can find all our projects on Github https://github.com/Code-for-Miami.
 
 How to join our slack group: http://cfm-invite.herokuapp.com/
 
-Have a project idea? https://github.com/Code-for-Miami/project-ideas
-Here’s a list: https://github.com/code-for-miami/project-ideas/issues
-And here’s how you can suggest a new project: https://github.com/Code-for-Miami/project-ideas/issues/new
-
 Want to follow our blog? https://medium.com/code-for-miami
 
 We make group decisions through Loomio. https://www.loomio.org/g/Hnu2T5VP/code-for-miami
 
+FAQ's
 
-LEADERSHIP
+1. What is civic hacking? http://codefor.miami/civic-hacking-101
+
+2. What if I have a project idea?
+  This is our current protocol for submitting new ideas https://github.com/Code-for-Miami/project-ideas
+  You can submit an idea here: https://github.com/Code-for-Miami/project-ideas/issues/new
+
+3. What if I want to work on an existing project? 
+  This is a list of all open issues you can work on: https://github.com/code-for-miami/project-ideas/issues
+
+4. If I'm interested in joining a committee, what should I do?
+
+Contact one of the leads or committee members and tell them you want to help.
 
 Captains
 Danielle Ungermann
 Chris Scott
-Julie Kramer
+Julie Kramer juliekramer@codeforamerica.org
 
 Communications
 Lead: Maggie Diaz-Vera
