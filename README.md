@@ -32,11 +32,10 @@ Contact one of the leads or committee members and tell them you want to help.
 Captains
 Danielle Ungermann
 Chris Scott
-Julie Kramer juliekramer@codeforamerica.org
+Julie Kramer
 
 Communications
-Lead: Maggie Diaz-Vera
-Committee: Ellie Evans
+Lead: Ellie Evans
 
 Projects / Technical / Growth
 Leads: Chris Scott, Yamileth Medina
