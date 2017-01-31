@@ -29,13 +29,9 @@ FAQ's
 
 Contact one of the leads or committee members and tell them you want to help.
 
-Captains
-Danielle Ungermann
-Chris Scott
-Julie Kramer
+Captains: Danielle Ungermann, Chris Scott, Julie Kramer
 
-Communications
-Lead: Ellie Evans
+Communications Lead: Ellie Evans
 
 Projects / Technical / Growth
 Leads: Chris Scott, Yamileth Medina
