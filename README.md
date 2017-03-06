@@ -8,6 +8,8 @@ This is our website: http://codefor.miami
 
 You can find all our projects on Github https://github.com/Code-for-Miami.
 
+You can get inspired by some Code for America projects https://codeforamerica.github.io/
+
 How to join our slack group: http://cfm-invite.herokuapp.com/
 
 Want to follow our blog? https://medium.com/code-for-miami
