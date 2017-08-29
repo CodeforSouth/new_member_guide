@@ -35,18 +35,11 @@ Contact one of the leads or committee members and tell them you want to help.
 * Chris Scott
 * Julie Kramer juliekramer@codeforamerica.org
 
-### Communications
-* Lead: Ellie Evans
-
 ### Projects / Technical / Growth
 * Leads: Chris Scott, Yamileth Medina
-* Committee: Kassandra Meyer, David Martin, David Collado, Alejandro Gutierrez
 
-### Volunteers / Community / Membership
-* Leads: Julie Kramer, Lisa Carson
-* Committee: Keisha Gabbidon, Willmeisha Hall
+### Volunteers / Community / Membership / Communications
+* Leads: Julie Kramer, Danielle Ungermann
 
 ### Events
 * Lead: Danielle Ungermann
-* Committee: Pierre Cabral
-
