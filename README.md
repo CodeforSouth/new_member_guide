@@ -38,11 +38,10 @@ We make group decisions through Loomio. https://www.loomio.org/g/Hnu2T5VP/code-f
 
 ### Captains
 * Danielle Ungermann
-* [Chris Scott](https://github.com/CyberStrike)
 * Julie Kramer juliekramer@codeforamerica.org
 
 ### Projects / Technical / Growth
-* Leads: [Chris Scott](https://github.com/CyberStrike), Yamileth Medina
+* Leads: [Gregory Johnson](gjohnson@codeforamerica.org)
 
 ### Volunteers / Community / Membership / Communications
 * Leads: Julie Kramer, Danielle Ungermann
