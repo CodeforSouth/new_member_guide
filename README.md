@@ -3,7 +3,7 @@ All the Information a New Member Could Want Or Need
 
 Meeting Information https://www.meetup.com/Code-for-Miami/
 
-This is our website: http://codefor.miami
+This is our website: http://codeformiami.com
 
 You can find all our projects on Github https://github.com/Code-for-Miami.
 
