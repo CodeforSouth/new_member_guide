@@ -1,4 +1,4 @@
-# The Code for Miami New Member Guide
+### The Code for Miami New Member Guide
 All the Information a New Member Could Want Or Need
 
 Meeting Information https://www.meetup.com/Code-for-Miami/
@@ -13,11 +13,10 @@ How to join our slack group: http://cfm-invite.herokuapp.com/
 
 Want to follow our blog? https://medium.com/code-for-miami
 
-We make group decisions through Loomio. https://www.loomio.org/g/Hnu2T5VP/code-for-miami
 
 ## FAQ's
 
-1. What is civic hacking? http://codefor.miami/civic-hacking-101
+1. What is civic hacking? https://www.codeforamerica.org/blog/2013/06/07/defining-civic-hacking/
 
 2. What if I have a project idea?
   
@@ -36,15 +35,14 @@ We make group decisions through Loomio. https://www.loomio.org/g/Hnu2T5VP/code-f
 
     Ask us in our slack group.
 
-### Captains
-* Danielle Ungermann
-* Julie Kramer juliekramer@codeforamerica.org
+### Directors (Capitans)
+* [Gregory Johnson | Program Director](gjohnson@codeforamerica.org)
+* [Livio Alessandro Zanardo | Miami Project Manager](livio@doasromans.com)
 
-### Projects / Technical / Growth
-* Leads: [Gregory Johnson](gjohnson@codeforamerica.org)
+### Project Leaders (lieutenants) 
+* [Ryan Gates | Site Reliablity Engineer](ryanvgates@gmail.com)
+* [Roberto Beltran | Miami Project Leader](robertobeltran@protonmail.com)
+* [Rob Davis | Community Organizer](Robdotdavis@gmail.com)
+* [Ptah Dunbar | Developer Advocate](ptah@pirate.ai)
+* [Whitney Lubin | Developer Advocate](wlubin@codeforamerica.org)
 
-### Volunteers / Community / Membership / Communications
-* Leads: Julie Kramer, Danielle Ungermann
-
-### Events
-* Lead: Danielle Ungermann
