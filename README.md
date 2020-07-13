@@ -9,7 +9,7 @@ You can find all our projects on Github https://github.com/CodeforSouth
 
 You can get inspired by some Code for America projects https://codeforamerica.github.io/
 
-Want to follow our blog? https://medium.com/code-for-miami
+Want to follow our blog? https://codeforsouth.com/news/
 
 
 ## FAQ's
@@ -18,27 +18,26 @@ Want to follow our blog? https://medium.com/code-for-miami
 
 2. What if I have a project idea?
   
-    This is our current protocol for submitting new ideas https://github.com/Code-for-Miami/project-ideas
-    You can submit an idea here: https://github.com/Code-for-Miami/project-ideas/issues/new
+  This is being revised.
 
 3. What if I want to work on an existing project? 
 
-    This is a list of all open issues you can work on: https://github.com/code-for-miami/project-ideas/issues
+  This is being revised.
 
 4. If I'm interested in joining a committee, what should I do?
 
-    Contact one of the leads or committee members and tell them you want to help.
+      This is being revised.
 
 5. What if I have a question not listed here?
 
     Ask to join our Teams group (teams@codeforsouth.com)
 
 ### Program
-* [Gregory Johnson | Program Director](greg@codeforsouth.com)
-* [Livio Alessandro Zanardo | Program Manager, Miami (livio@codeforsouth.com)
-
-### Engineer (lieutenants) 
-* [Ryan Gates | Site Reliablity Engineer](ryan@codeforsouth.com)
-* [Roberto Beltran | Developer Relation, Open Source](roberto@codeforsouth.com)
+* [Gregory Johnson] Program Director](greg@codeforsouth.com)
+* [Livio Zanardo] Program Manager, Miami (livio@codeforsouth.com)
+* [Shakeia Kegler] Program Manager, Broward (skegler@codeforsouth.com)
+* [Ailyn Guerra] Program Associate, Community (ailyn@codeforsouth.com)
+* [Ryan Gates) Site Reliablity Engineer(ryan@codeforsouth.com)
+* [Roberto Beltran) Developer Relation, Open Source (roberto@codeforsouth.com)
 
 
