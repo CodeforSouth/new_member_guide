@@ -1,43 +1,31 @@
-### The Code for Miami New Member Guide
-All the Information a New Member Could Want Or Need
+### Our Guide for New Member 
+Welcome, here is everything you need to get started working with us. 
 
-Meeting Information https://www.meetup.com/Code-for-Miami/
 
-This is our website: http://codeforsouth.com
+## First Things First
+1. Signup for Code for South Florida as a [volunteer](https://codeforsouth.org/volunteer/) or a [partner](http://codeforsouth.org/partner). 
+2. Read our [Code of Conduct](https://codeforsouth.org/code-of-conduct/).
+3. Join our [Slack](http://cfm-invite.herokuapp.com/). You should receive the email immediately after self-invite.
+  Join the channel specific to your hacknight:
+  #broward
+  #palm-beach
+  #new-member
+  #jobs
 
-You can find all our projects on Github https://github.com/CodeforSouth
+4. You should look at the website and see what we have been up to. Maybe also become a subscriber. 
+5. Setup up your GitHub account:
+  Sign up for a GitHub account.
+  Set up two factor authentication.
+  Mark your Hack for LA organization membership public.
 
-You can get inspired by some Code for America projects https://codeforamerica.github.io/
 
+## Resources
+Our website: http://codeforsouth.org
 Want to follow our blog? https://codeforsouth.com/news/
 
 
-## FAQ's
 
-1. What is civic hacking? https://www.codeforamerica.org/blog/2013/06/07/defining-civic-hacking/
 
-2. What if I have a project idea?
-  
-  This is being revised.
 
-3. What if I want to work on an existing project? 
-
-  This is being revised.
-
-4. If I'm interested in joining a committee, what should I do?
-
-      This is being revised.
-
-5. What if I have a question not listed here?
-
-    Ask to join our Teams group (teams@codeforsouth.com)
-
-### Program
-* [Gregory Johnson] Program Director](greg@codeforsouth.com)
-* [Livio Zanardo] Program Manager, Miami (livio@codeforsouth.com)
-* [Shakeia Kegler] Program Manager, Broward (skegler@codeforsouth.com)
-* [Ailyn Guerra] Program Associate, Community (ailyn@codeforsouth.com)
-* [Ryan Gates) Site Reliablity Engineer(ryan@codeforsouth.com)
-* [Roberto Beltran) Developer Relation, Open Source (roberto@codeforsouth.com)
 
 
