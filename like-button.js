@@ -1,7 +1,7 @@
 'use strict';
-
+// before production builds... This file may be used as needed. 
 function LikeButton() {
-  const [liked, setLiked] = React.useState(false);
+  const [liked, setLiked] = React.useState(true);
 
   if (liked) {
     return 'You liked this!';
